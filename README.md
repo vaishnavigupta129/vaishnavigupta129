@@ -16,7 +16,7 @@ A passionate Computer Science student focusing on building optimized backend sol
 ### 🎛️ [DSAA-Interactive-Dashboard](https://github.com/vaishnavigupta129/DSAA-Interactive-Dashboard)
 A futuristic, 3D interactive "Mission Control" center built to demonstrate over 13+ modules of Data Structures & Algorithms (including Binary Search Trees, Graphs, and Sorting techniques) styled inside a polished cyberpunk aesthetic.
 
-### 📦 [Python Portfolio & Store Manager](https://github.com/vaishnavigupta129/Python Project)
+### 📦 [Python Portfolio & Store Manager](https://github.com/vaishnavigupta129/Python-Projects)
 A centralized hub containing multiple Python architectures—ranging from Django backends and API integrators to a cross-platform Kivy Store Management application actively being engineered for native Android environments.
 
 ---
