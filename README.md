@@ -27,4 +27,4 @@ A centralized hub containing multiple Python architectures—ranging from Django
 * Solving complex algorithmic optimization constraints.
 
 📫 **Find me on LinkedIn:** [https://www.linkedin.com/in/vaishnavi-gupta-499412378/]
-## Link to My Portfolio: ## [https://codebyvaishnavi.my.canva.site/portfolio]
+## Link to My Portfolio: [https://codebyvaishnavi.my.canva.site/portfolio]
